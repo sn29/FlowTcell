@@ -1,0 +1,18 @@
+# Ignore raw data and system files
+data/raw/
+*.fcs
+*.DS_Store
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+
+# Jupyter + notebooks (if any)
+.ipynb_checkpoints/
+
+# Streamlit artifacts
+.streamlit/
+
+# VSCode or JetBrains
+.vscode/
+.idea/
