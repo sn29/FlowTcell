@@ -59,7 +59,7 @@ streamlit run src/ui/streamlit_app.py
 
 **Nidhi Dev**  
 🧬 Cell Therapy | 🧠 ML-Bio Research | 💻 Pipeline Developer  
-🔗 [LinkedIn](https://linkedin.com/in/nididev) • [GitHub](https://github.com/nididev)
+🔗[GitHub](https://github.com/nididev)
 
 ---
 
