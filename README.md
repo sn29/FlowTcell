@@ -1,6 +1,6 @@
 # 🧬 FlowSense: AI-Guided Flow Cytometry
 
-**FlowSense** is an end-to-end pipeline for analyzing flow cytometry `.fcs` files using ML and GNNs. It handles everything from live gating and cell classification to anomaly detection — all wrapped in a clean Streamlit UI.
+**FlowSense** is an end-to-end pipeline for analyzing flow cytometry `.fcs` files using ML and GNNs. It handles everything from live gating and cell classification to anomaly detection all wrapped in a clean Streamlit UI.
 
 ---
 
